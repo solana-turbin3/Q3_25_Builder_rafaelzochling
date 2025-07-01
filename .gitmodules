@@ -1,0 +1,6 @@
+[submodule "turbin3-rs-prereq-rz"]
+	path = turbin3-rs-prereq-rz
+	url = https://github.com/rafaelzochling/turbin3-rs-prereq-rz
+[submodule "turbin3-ts-prereq-rz"]
+	path = turbin3-ts-prereq-rz
+	url = https://github.com/rafaelzochling/turbin3-ts-prereq-rz
