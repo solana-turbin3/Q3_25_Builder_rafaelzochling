@@ -7,3 +7,6 @@
 [submodule "turbin3-solana-starter"]
 	path = turbin3-solana-starter
 	url = https://github.com/rafaelzochling/turbin3-solana-starter
+[submodule "turbin3-capstone-tokenized-vaults"]
+	path = turbin3-capstone-tokenized-vaults
+	url = https://github.com/rafaelzochling/turbin3-capstone-tokenized-vaults.git
