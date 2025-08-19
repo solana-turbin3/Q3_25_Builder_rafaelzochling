@@ -10,3 +10,6 @@
 [submodule "turbin3-capstone-tokenized-vaults"]
 	path = turbin3-capstone-tokenized-vaults
 	url = https://github.com/rafaelzochling/turbin3-capstone-tokenized-vaults.git
+[submodule "turbin3-tokenized-vaults-program"]
+	path = turbin3-tokenized-vaults-program
+	url = https://github.com/rafaelzochling/turbin3-tokenized-vaults-program.git
